@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome Andy.</h2>
+			<h2>Welcome Andy buddy </h2>
 			<h3>Contact @ +91</h3>
 		</div>	
 	</div>
